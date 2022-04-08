@@ -1,4 +1,4 @@
-# A Monero WebAssembly based miner
+# A Scala WebAssembly based miner
 
 The core aim of this project is to provide a completely open source, browser based, Monero miner. It has a companion project, [my fork](https://github.com/jtgrassie/xmr-node-proxy) of Snipa's **xmr-node-proxy** which adds a WebSocket based branch for allowing this miner to connect through to various mining pools.
 
